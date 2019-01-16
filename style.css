@@ -3,6 +3,8 @@ body{
     background-image: url("background.jpg");
     background-repeat: repeat;
     width: 99.7%;
+	top: 100px;
+	
     
     
 }
@@ -13,8 +15,7 @@ header{
     width: 100%;
     background-color: rgb(87, 87, 87);
     border: 3px solid rgb(0, 0, 0);
-    position: fixed;
-
+    
     
     
   
